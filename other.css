@@ -1,0 +1,13 @@
+ul{
+    color: #8e2525;
+    letter-spacing: 4px;
+}
+b{
+    background-color: yellow;
+    color: #8e2525;
+}
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
